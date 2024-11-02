@@ -1,3 +1,7 @@
 python is a programming language
 
 java is a programming language
+
+php is a language
+
+html is a language
